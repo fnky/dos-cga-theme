@@ -1,6 +1,6 @@
-![DOS/CGA Theme](header.png)
+![DOS/CGA Color Scheme](header.png)
 
-A theme for Sublime Text 3 using DOS CGA colors. Has great support for [Babel](https://packagecontrol.io/packages/Babel).
+A color scheme for Sublime Text 3 using DOS CGA colors. Has great support for [Babel](https://packagecontrol.io/packages/Babel).
 
 ## Prerequesites
 
@@ -12,11 +12,11 @@ A theme for Sublime Text 3 using DOS CGA colors. Has great support for [Babel](h
 
 1. Open Command Palette in Sublime Text.
 2. Choose `Package Control: Install Package`.
-3. Search for `DOS-CGA Theme` and install.
+3. Search for `DOS-CGA Color Scheme` and install.
 
 #### Manually
 
-[Download **DOS-CGA Theme** from Releases](https://github.com/fnky/dos-cga-theme/releases) and extract to packages folder:
+[Download **DOS-CGA Color Scheme** from Releases](https://github.com/fnky/dos-cga-theme/releases) and extract to packages folder:
 
 - **macOS**: `~/Library/Application Support/Sublime Text 3/Packages`
 - **Windows**: ` %APPDATA%\Sublime Text 3\Packages`
@@ -27,7 +27,7 @@ A theme for Sublime Text 3 using DOS CGA colors. Has great support for [Babel](h
 Clone this repository into your packages folder, located at:
 
 ```
-git clone https://github.com/fnky/dos-cga-theme "DOS-CGA Theme"
+git clone https://github.com/fnky/dos-cga-theme "DOS-CGA Color Scheme"
 ```
 
 ## Preview
@@ -40,7 +40,7 @@ To enable the theme, put this in your Settings (`Preferences > Settings`):
 
 ```json
 {
-  "color_scheme": "Packages/DOS-CGA Theme/DOS-CGA.tmTheme"
+  "color_scheme": "Packages/DOS-CGA Color Scheme/DOS-CGA.tmTheme"
 }
 ```
 
